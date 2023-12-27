@@ -1,4 +1,9 @@
 # ignore all logs
 *.log
 
+# folders
+bin/
+obj/
+
+# files
 SwaggerOutput.txt
