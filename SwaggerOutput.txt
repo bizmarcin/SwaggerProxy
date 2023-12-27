@@ -1,0 +1,185 @@
+2023-12-22 - ewsd2023-12-22 - test12023-12-22 - test22023-12-22 - test3
+2023-12-22 - 23
+2023-12-22 - 123
+2023-12-22 - qwe
+2023-12-22 - 123
+2023-12-22 - 123
+2023-12-22 - body
+2023-12-22 - string
+2023-12-22 - test456
+2023-12-22 - string
+2023-12-22 - string
+2023-12-22 - string
+2023-12-22 23:01:28 - strin1g
+2023-12-23 09:00:59 - string
+2023-12-23 16:47:06 - string
+2023-12-23 22:23:55 - string
+2023-12-23 22:26:12 - string
+2023-12-24 12:42:58 - string
+2023-12-25 20:12:40 - string
+2023-12-25 20:33:35 - string
+2023-12-26 00:05:33 - string
+2023-12-26 16:33:00 - string
+2023-12-26 16:42:31 - string
+2023-12-26 22:22:28 - string
+2023-12-26 22:25:37 - string
+2023-12-26 22:30:46 - string
+2023-12-26 22:35:13 - string
+2023-12-27 20:31:24 - <?xml version="1.0" encoding="UTF-8"?>
+<HttpRequest>
+	<httpContext>
+		<request>string</request>
+		<response>
+			<httpContext>string</httpContext>
+			<statusCode>0</statusCode>
+			<body>
+				<position>0</position>
+				<readTimeout>0</readTimeout>
+				<writeTimeout>0</writeTimeout>
+			</body>
+			<bodyWriter>
+			</bodyWriter>
+			<contentLength>0</contentLength>
+			<contentType>string</contentType>
+			<cookies>
+			</cookies>
+		</response>
+		<connection>
+			<id>string</id>
+			<remoteIpAddress>
+				<addressFamily>0</addressFamily>
+				<scopeId>0</scopeId>
+			</remoteIpAddress>
+			<remotePort>0</remotePort>
+			<localIpAddress>
+				<addressFamily>0</addressFamily>
+				<scopeId>0</scopeId>
+			</localIpAddress>
+			<localPort>0</localPort>
+			<clientCertificate>
+				<handle>
+				</handle>
+				<serialNumberBytes>
+					<span>
+					</span>
+				</serialNumberBytes>
+				<archived>true</archived>
+				<friendlyName>string</friendlyName>
+				<privateKey>
+					<keySize>0</keySize>
+				</privateKey>
+				<issuerName>
+					<oid>
+						<value>string</value>
+						<friendlyName>string</friendlyName>
+					</oid>
+					<rawData>string</rawData>
+				</issuerName>
+				<publicKey>
+					<encodedKeyValue>
+						<oid>
+							<value>string</value>
+							<friendlyName>string</friendlyName>
+						</oid>
+						<rawData>string</rawData>
+					</encodedKeyValue>
+					<encodedParameters>
+						<oid>
+							<value>string</value>
+							<friendlyName>string</friendlyName>
+						</oid>
+						<rawData>string</rawData>
+					</encodedParameters>
+					<key>
+						<keySize>0</keySize>
+					</key>
+					<oid>
+						<value>string</value>
+						<friendlyName>string</friendlyName>
+					</oid>
+				</publicKey>
+				<rawDataMemory>
+					<span>
+					</span>
+				</rawDataMemory>
+				<signatureAlgorithm>
+					<value>string</value>
+					<friendlyName>string</friendlyName>
+				</signatureAlgorithm>
+				<subjectName>
+					<oid>
+						<value>string</value>
+						<friendlyName>string</friendlyName>
+					</oid>
+					<rawData>string</rawData>
+				</subjectName>
+			</clientCertificate>
+		</connection>
+		<webSockets>
+		</webSockets>
+		<user>
+			<identity>
+			</identity>
+		</user>
+		<items>
+			<additionalProp1>string</additionalProp1>
+			<additionalProp2>string</additionalProp2>
+			<additionalProp3>string</additionalProp3>
+		</items>
+		<requestServices>
+		</requestServices>
+		<requestAborted>
+			<waitHandle>
+				<handle>
+				</handle>
+				<safeWaitHandle>
+				</safeWaitHandle>
+			</waitHandle>
+		</requestAborted>
+		<traceIdentifier>string</traceIdentifier>
+		<session>
+		</session>
+	</httpContext>
+	<method>string</method>
+	<scheme>string</scheme>
+	<isHttps>true</isHttps>
+	<host>
+		<value>string</value>
+	</host>
+	<pathBase>
+		<value>string</value>
+	</pathBase>
+	<path>
+		<value>string</value>
+	</path>
+	<queryString>
+		<value>string</value>
+	</queryString>
+	<query>
+		<key>string</key>
+		<value>string</value>
+	</query>
+	<protocol>string</protocol>
+	<cookies>
+		<key>string</key>
+		<value>string</value>
+	</cookies>
+	<contentLength>0</contentLength>
+	<contentType>string</contentType>
+	<body>
+		<position>0</position>
+		<readTimeout>0</readTimeout>
+		<writeTimeout>0</writeTimeout>
+	</body>
+	<bodyReader>
+	</bodyReader>
+	<form>
+		<key>string</key>
+		<value>string</value>
+	</form>
+	<routeValues>
+		<additionalProp1>string</additionalProp1>
+		<additionalProp2>string</additionalProp2>
+		<additionalProp3>string</additionalProp3>
+	</routeValues>
+</HttpRequest>
