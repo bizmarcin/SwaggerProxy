@@ -183,3 +183,158 @@
 		<additionalProp3>string</additionalProp3>
 	</routeValues>
 </HttpRequest>
+2023-12-27 20:59:05 - {
+  "httpContext": {
+    "request": "string",
+    "response": {
+      "httpContext": "string",
+      "statusCode": 0,
+      "body": {
+        "position": 0,
+        "readTimeout": 0,
+        "writeTimeout": 0
+      },
+      "bodyWriter": {},
+      "contentLength": 0,
+      "contentType": "string",
+      "cookies": {}
+    },
+    "connection": {
+      "id": "string",
+      "remoteIpAddress": {
+        "addressFamily": 0,
+        "scopeId": 0
+      },
+      "remotePort": 0,
+      "localIpAddress": {
+        "addressFamily": 0,
+        "scopeId": 0
+      },
+      "localPort": 0,
+      "clientCertificate": {
+        "handle": {},
+        "serialNumberBytes": {
+          "span": {}
+        },
+        "archived": true,
+        "friendlyName": "string",
+        "privateKey": {
+          "keySize": 0
+        },
+        "issuerName": {
+          "oid": {
+            "value": "string",
+            "friendlyName": "string"
+          },
+          "rawData": "string"
+        },
+        "publicKey": {
+          "encodedKeyValue": {
+            "oid": {
+              "value": "string",
+              "friendlyName": "string"
+            },
+            "rawData": "string"
+          },
+          "encodedParameters": {
+            "oid": {
+              "value": "string",
+              "friendlyName": "string"
+            },
+            "rawData": "string"
+          },
+          "key": {
+            "keySize": 0
+          },
+          "oid": {
+            "value": "string",
+            "friendlyName": "string"
+          }
+        },
+        "rawDataMemory": {
+          "span": {}
+        },
+        "signatureAlgorithm": {
+          "value": "string",
+          "friendlyName": "string"
+        },
+        "subjectName": {
+          "oid": {
+            "value": "string",
+            "friendlyName": "string"
+          },
+          "rawData": "string"
+        }
+      }
+    },
+    "webSockets": {},
+    "user": {
+      "identity": {}
+    },
+    "items": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "requestServices": {},
+    "requestAborted": {
+      "waitHandle": {
+        "handle": {},
+        "safeWaitHandle": {}
+      }
+    },
+    "traceIdentifier": "string",
+    "session": {}
+  },
+  "method": "string",
+  "scheme": "string",
+  "isHttps": true,
+  "host": {
+    "value": "string"
+  },
+  "pathBase": {
+    "value": "string"
+  },
+  "path": {
+    "value": "string"
+  },
+  "queryString": {
+    "value": "string"
+  },
+  "query": [
+    {
+      "key": "string",
+      "value": [
+        "string"
+      ]
+    }
+  ],
+  "protocol": "string",
+  "cookies": [
+    {
+      "key": "string",
+      "value": "string"
+    }
+  ],
+  "contentLength": 0,
+  "contentType": "string",
+  "body": {
+    "position": 0,
+    "readTimeout": 0,
+    "writeTimeout": 0
+  },
+  "bodyReader": {},
+  "form": [
+    {
+      "key": "string",
+      "value": [
+        "string"
+      ]
+    }
+  ],
+  "routeValues": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  }
+}
