@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XMLReciver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cee6b3231419a451ec8c1c31838ed0a8c08e34e")]
 [assembly: System.Reflection.AssemblyProductAttribute("XMLReciver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XMLReciver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
